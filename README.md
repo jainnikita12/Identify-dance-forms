@@ -14,4 +14,4 @@ solved some dependencies for google colab
 
 
 Easy and fun!!! 
-My Rank < 50 ( as the score is 90.028 --- Though the leaderboard is freezed now :p )
+My Rank < 50 ( as the score is 90.028 --- Though the leaderboard is freezed now!! )
